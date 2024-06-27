@@ -8,3 +8,12 @@ html, body {
 * {
     box-sizing: border-box;
 }
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    background-color: black;
+    max-width: 500px;
+    margin: 0 auto;
+}
