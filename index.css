@@ -21,3 +21,8 @@ header {
 header img {
     width: 340px;
 }
+
+main {
+    display: flex;
+    justify-content: center;
+}
