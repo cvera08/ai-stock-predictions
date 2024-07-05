@@ -45,3 +45,11 @@ main {
     border: 2px solid;
     padding: 1em 2em;
 }
+
+.loading-panel {
+    display: none;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 400px;
+    text-align: center;
+}
