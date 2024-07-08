@@ -53,3 +53,7 @@ main {
     height: 400px;
     text-align: center;
 }
+
+.output-panel p{
+    overflow-y: scroll;
+}
