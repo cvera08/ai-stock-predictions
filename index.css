@@ -69,3 +69,9 @@ h2 {
     font-size: 18px;
     margin-bottom: 0;
 }
+
+p.tag-line {
+    font-family: 'Comic Neue';
+    font-weight: 700;
+    font-size: 14px;
+}
