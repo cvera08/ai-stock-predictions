@@ -75,3 +75,18 @@ p.tag-line {
     font-weight: 700;
     font-size: 14px;
 }
+
+.ticker-choice-display {
+    display: flex;
+    align-items: center;
+    height: 3em; 
+}
+
+/* controls */
+
+form {
+    width: 360px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
