@@ -90,3 +90,16 @@ form {
     flex-direction: column;
     align-items: center;
 }
+
+label {
+    text-align: center;
+    padding: .43em;
+    font-size: 15px;
+    margin-bottom: 1em;
+    width: 80%;
+}
+
+.form-input-control {
+    display: flex;
+    width: 70%;
+}
