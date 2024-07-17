@@ -103,3 +103,9 @@ label {
     display: flex;
     width: 70%;
 }
+
+input[type="text"] {
+    padding: 1em;
+    border: 2px solid black;
+    border-right: none;
+}
