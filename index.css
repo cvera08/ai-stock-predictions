@@ -109,3 +109,15 @@ input[type="text"] {
     border: 2px solid black;
     border-right: none;
 }
+
+/* Buttons */
+
+.add-ticker-btn {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    font-size: 3em;
+    padding: 0 .35em;
+    cursor: pointer;
+    border: 2px solid;
+}
