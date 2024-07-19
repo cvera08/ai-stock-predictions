@@ -121,3 +121,7 @@ input[type="text"] {
     cursor: pointer;
     border: 2px solid;
 }
+
+.add-ticker-svg {
+    width: 14px;
+}
