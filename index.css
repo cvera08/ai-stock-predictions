@@ -138,3 +138,10 @@ input[type="text"] {
     letter-spacing: .09em;
     font-size: 105%;
 }
+
+/* ticker display (ensure comma separated) */
+
+.ticker {
+    margin: 0 .1em;
+    content: '';
+}
