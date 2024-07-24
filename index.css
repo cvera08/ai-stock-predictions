@@ -145,3 +145,7 @@ input[type="text"] {
     margin: 0 .1em;
     content: '';
 }
+
+.ticker:after {
+    content: ',';
+}
