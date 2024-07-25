@@ -149,3 +149,7 @@ input[type="text"] {
 .ticker:after {
     content: ',';
 }
+
+.ticker:last-child::after {
+    content: '';
+}
