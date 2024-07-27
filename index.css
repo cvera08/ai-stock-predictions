@@ -160,3 +160,8 @@ footer {
     font-size: 14px;
     text-align: center;
 }
+
+/* stop ugly scroll bar on some browsers */
+.output-panel p::-webkit-scrollbar {
+    display: none;
+}
