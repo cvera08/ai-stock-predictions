@@ -4,3 +4,9 @@ function formatDate(date) {
     const dd = String(date.getDate()).padStart(2, '0');
     return `${yyyy}-${mm}-${dd}`;
 }
+
+function getDateNDaysAgo(n) {
+    const now = new Date(); // current date and time
+    now.setDate(now.getDate() - n); // subtract n days
+    return formatDate(now);
+}
