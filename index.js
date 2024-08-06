@@ -5,3 +5,4 @@ const tickersArr = []
 
 const generateReportBtn = document.querySelector('.generate-report-btn')
 
+generateReportBtn.addEventListener('click', fetchStockData)
