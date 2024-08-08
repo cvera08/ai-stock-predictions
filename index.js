@@ -22,3 +22,14 @@ document.getElementById('ticker-input-form').addEventListener('submit', (e) => {
         label.textContent = 'You must add at least one ticker. A ticker is a 3 letter or more code for a stock. E.g TSLA for Tesla.'
     }
 })
+
+function renderTickers() {
+    const tickersDiv = document.querySelector('.ticker-choice-display')
+    tickersDiv.innerHTML = ''
+    tickersArr.forEach((ticker) => {
+        const newTickerSpan = document.createElement('span')
+        newTickerSpan.textContent = ticker
+        newTickerSpan.classList.add('ticker')
+        tickersDiv.appendChild(newTickerSpan)
+    })
+}
