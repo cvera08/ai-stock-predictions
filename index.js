@@ -33,3 +33,5 @@ function renderTickers() {
         tickersDiv.appendChild(newTickerSpan)
     })
 }
+
+const loadingArea = document.querySelector('.loading-panel')
