@@ -35,3 +35,5 @@ function renderTickers() {
 }
 
 const loadingArea = document.querySelector('.loading-panel')
+
+const apiMessage = document.getElementById('api-message')
