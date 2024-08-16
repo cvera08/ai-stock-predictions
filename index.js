@@ -79,4 +79,21 @@ async function fetchReport(data) {
             `
         }
     ]
+
+    try {
+        const openai = new OpenAI({
+            dangerouslyAllowBrowser: true,
+            apiKey: `${process.env.OPENAI_API_KEY}`
+        })
+        const response = await openai.chat.completions.create({
+            model: 'gpt-3.5-turbo',
+            messages: messages,
+            temperature: 1.1
+        })
+        renderReport(response.choices[0].message.content)
+
+    } catch (err) {
+        console.log('Error:', err)
+        loadingArea.innerText = 'Unable to access AI. Please refresh and try again'
+    }
 }
