@@ -97,3 +97,12 @@ async function fetchReport(data) {
         loadingArea.innerText = 'Unable to access AI. Please refresh and try again'
     }
 }
+
+function renderReport(output) {
+    loadingArea.style.display = 'none'
+    const outputArea = document.querySelector('.output-panel')
+    const report = document.createElement('p')
+    outputArea.appendChild(report)
+    report.textContent = output
+    outputArea.style.display = 'flex'
+}
