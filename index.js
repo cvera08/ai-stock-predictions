@@ -106,3 +106,6 @@ function renderReport(output) {
     report.textContent = output
     outputArea.style.display = 'flex'
 }
+
+// old style with no examples
+//Over the past three days, Tesla (TSLA) shares have shown a slight decrease in value. The stock opened at $223.98 and closed at $222.11 on the third day, with minor fluctuations in between. On the other hand, Apple (AAPL) stocks have demonstrated an upward trend over the same period; opening at $176.38 and closing at $182.89 on day three. Given these trends, it is recommended to hold TSLA stocks for now as they are experiencing a slight dip but may rebound soon due to their overall market performance and reputation for volatility. For AAPL stocks, considering its consistent growth over the last few days, it would be advisable to buy more of this stock if you're looking for short-term gains or continue holding if you already own some.
