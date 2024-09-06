@@ -15,6 +15,10 @@ ___
 
 ___
 
+## Requisites:[![](https://i.ibb.co/2kHmnLX/image.png)](#requisites)
+
+___
+
 # Getting Started
 Install the dependencies and run the project
 ```
