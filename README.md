@@ -17,6 +17,8 @@ ___
 
 ## Requisites:[![](https://i.ibb.co/2kHmnLX/image.png)](#requisites)
 
+##### 1- Install Git locally
+You can follow one of these links:  
 ___
 
 # Getting Started
