@@ -19,6 +19,11 @@ ___
 
 ##### 1- Install Git locally
 You can follow one of these links:  
+
+- Windows, Linux, Mac:  
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git  
+<br/>
+
 ___
 
 # Getting Started
