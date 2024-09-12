@@ -24,6 +24,14 @@ You can follow one of these links:
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git  
 <br/>
 
+- Or using Homebrew:  
+https://www.atlassian.com/git/tutorials/install-git
+
+```bash
+brew install git
+```
+<br/>
+
 ___
 
 # Getting Started
