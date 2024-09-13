@@ -32,6 +32,8 @@ brew install git
 ```
 <br/>
 
+##### 2- Install some IDE like Visual Studio Code
+You can follow one of these links:  
 ___
 
 # Getting Started
