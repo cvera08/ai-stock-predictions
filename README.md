@@ -34,6 +34,10 @@ brew install git
 
 ##### 2- Install some IDE like Visual Studio Code
 You can follow one of these links:  
+
+- Windows, Linux, Mac:  
+https://code.visualstudio.com/download
+<br/>
 ___
 
 # Getting Started
