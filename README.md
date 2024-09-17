@@ -38,6 +38,12 @@ You can follow one of these links:
 - Windows, Linux, Mac:  
 https://code.visualstudio.com/download
 <br/>
+
+- Or using Homebrew:  
+
+```bash
+brew install --cask visual-studio-code
+```
 ___
 
 # Getting Started
