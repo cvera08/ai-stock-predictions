@@ -46,6 +46,19 @@ brew install --cask visual-studio-code
 ```
 ___
 
+## To run this project:[![](https://i.ibb.co/2kHmnLX/image.png)](#run-project)
+
+You can run this project on your local machine.  
+Just pull it down (git clone) and install the dependencies:
+
+```bash
+git clone https://github.com/cvera08/ai-stock-predictions.git
+cd ai-stock-predictions
+```
+<br/>
+
+___
+
 # Getting Started
 Install the dependencies and run the project
 ```
