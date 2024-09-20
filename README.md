@@ -57,6 +57,10 @@ cd ai-stock-predictions
 ```
 <br/>
 
+And install ['Live Server'](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) VS Code extension as well:
+
+![Alt Text](https://raw.githubusercontent.com/ritwickdey/vscode-live-server/428e01caf02bfa7ee75741df0f02fc9d2b5b0999/images/Screenshot/vscode-live-server-animated-demo.gif)
+
 ___
 
 # Getting Started
