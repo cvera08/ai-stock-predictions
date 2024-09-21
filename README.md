@@ -63,6 +63,19 @@ And install ['Live Server'](https://marketplace.visualstudio.com/items?itemName=
 
 ___
 
+
+## Start the project:[![](https://i.ibb.co/2kHmnLX/image.png)](#start)
+
+You need to open ai-stock-predictions folder in your Visual Studio Code IDE, browse 'index.html', right-click + 'Open with Live Server'
+
+
+Or just open [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html) in your browser to visualize the site:  
+
+
+![alt text](https://github.com/user-attachments/assets/1a7886b2-3109-4995-9511-e9f1640b5a98)  
+
+___
+
 # Getting Started
 Install the dependencies and run the project
 ```
