@@ -6,12 +6,13 @@ ___
 ## Table of contents[![](https://i.ibb.co/2kHmnLX/image.png)](#table-of-contents)
 1. [Requisites](#requisites)
 2. [To run this project](#to-run-this-project)
-3. [Start the project](#start-the-project)
-4. [Online resources](#online-resources)
-5. [Composition](#composition-toolslibraries)
+3. [Getting Started](#getting-started)
+4. [Start the project](#start-the-project)
+5. [Online resources](#online-resources)
+6. [Composition](#composition-toolslibraries)
    - [Tools/Libraries](#composition-toolslibraries)
-6. [Miscellaneous](#miscellaneous-)
-7. [MIT licence](#mit-licence)
+7. [Miscellaneous](#miscellaneous-)
+8. [MIT licence](#mit-licence)
 
 ___
 
@@ -63,6 +64,14 @@ And install ['Live Server'](https://marketplace.visualstudio.com/items?itemName=
 
 ___
 
+## Getting Started:[![](https://i.ibb.co/2kHmnLX/image.png)](#getting-started)
+
+Install the dependencies and run the project
+```
+npm ci
+npm start
+```
+___
 
 ## Start the project:[![](https://i.ibb.co/2kHmnLX/image.png)](#start)
 
@@ -76,11 +85,6 @@ Or just open [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html
 
 ___
 
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
