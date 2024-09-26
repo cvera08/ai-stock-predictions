@@ -3,7 +3,7 @@ This repository aims to demonstrate the use of Artificial Intelligence in the ar
 
 ___
 
-## Table of contents[![](https://i.ibb.co/2kHmnLX/image.png)](#table-of-contents)
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#table-of-contents)Table of contents
 1. [Requisites](#requisites)
 2. [To run this project](#to-run-this-project)
 3. [Getting Started](#getting-started)
@@ -47,7 +47,7 @@ brew install --cask visual-studio-code
 ```
 ___
 
-## To run this project:[![](https://i.ibb.co/2kHmnLX/image.png)](#run-project)
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#run-project)To run this project
 
 You can run this project on your local machine.  
 Just pull it down (git clone) and install the dependencies:
@@ -64,7 +64,7 @@ And install ['Live Server'](https://marketplace.visualstudio.com/items?itemName=
 
 ___
 
-## Getting Started:[![](https://i.ibb.co/2kHmnLX/image.png)](#getting-started)
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#getting-started)Getting Started
 
 Install the dependencies and run the project
 ```
@@ -73,7 +73,7 @@ npm start
 ```
 ___
 
-## Start the project:[![](https://i.ibb.co/2kHmnLX/image.png)](#start)
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#start)Start the project
 
 You need to open ai-stock-predictions folder in your Visual Studio Code IDE, browse 'index.html', right-click + 'Open with Live Server'
 
