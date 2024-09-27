@@ -85,6 +85,11 @@ Or just open [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html
 
 ___
 
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#online)Online resources
 
+Live Site:
+- http://localhost:5173/
+
+___
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
