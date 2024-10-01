@@ -98,7 +98,12 @@ ___
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Vite](https://vite.dev)
+
+___
+
+## Miscellaneous: [![](https://i.ibb.co/2kHmnLX/image.png)](#miscellaneous)
+
+- Head over to https://vitejs.dev/ to learn more about configuring vite
   
 ___
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
