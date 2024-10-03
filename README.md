@@ -101,7 +101,7 @@ ___
 
 ___
 
-## Miscellaneous: [![](https://i.ibb.co/2kHmnLX/image.png)](#miscellaneous)
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#miscellaneous)Miscellaneous
 
 - Head over to https://vitejs.dev/ to learn more about configuring vite
   
