@@ -11,7 +11,7 @@ ___
 5. [Online resources](#online-resources)
 6. [Composition](#compositiontoolslibraries)
    - [Tools/Libraries](#compositiontoolslibraries)
-7. [Miscellaneous](#miscellaneous-)
+7. [Miscellaneous](#miscellaneous)
 8. [MIT licence](#mit-licence)
 
 ___
@@ -92,7 +92,7 @@ Live Site:
 
 ___
 
-## [![](https://i.ibb.co/2kHmnLX/image.png)](#compositiontoolslibraries)Composition(Tools/Libraries)
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#compositiontoolslibraries)Composition (Tools/Libraries)
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
