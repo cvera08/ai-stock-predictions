@@ -9,8 +9,8 @@ ___
 3. [Getting Started](#getting-started)
 4. [Start the project](#start-the-project)
 5. [Online resources](#online-resources)
-6. [Composition](#compositiontoolslibraries)
-   - [Tools/Libraries](#compositiontoolslibraries)
+6. [Composition](#composition-toolslibraries)
+   - [Tools/Libraries](#composition-toolslibraries)
 7. [Miscellaneous](#miscellaneous)
 8. [MIT licence](#mit-licence)
 
