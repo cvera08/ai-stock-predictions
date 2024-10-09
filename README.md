@@ -124,5 +124,8 @@ ___
 
 Stable Builds:
 
-* Mar 14, 2024 -- v1.0.0
+* Jun 17, 2024 -- v1.0.2
+  * Main HTML Page
+
+* Jun 14, 2024 -- v1.0.0
   * Initial Project
