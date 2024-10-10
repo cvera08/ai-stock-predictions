@@ -124,6 +124,9 @@ ___
 
 Stable Builds:
 
+* Jul 22, 2024 -- v1.1.5
+  * Generate Report Button
+
 * Jun 17, 2024 -- v1.0.2
   * Main HTML Page
 
