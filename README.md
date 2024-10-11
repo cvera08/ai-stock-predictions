@@ -124,6 +124,9 @@ ___
 
 Stable Builds:
 
+* Aug 02, 2024 -- v1.1.8
+  * Retrieve with Dates
+
 * Jul 22, 2024 -- v1.1.5
   * Generate Report Button
 
