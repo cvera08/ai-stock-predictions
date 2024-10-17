@@ -124,10 +124,13 @@ ___
 
 Stable Builds:
 
-* Apr 13, 2024 -- v2.0.4
+* Aug 15, 2024 -- v2.0.5
+  * Fetch Report
+
+* Aug 13, 2024 -- v2.0.4
   * Fetch Stock Data
 
-* Apr 12, 2024 -- v2.0.1
+* Aug 12, 2024 -- v2.0.1
   * API Message
 
 * Aug 05, 2024 -- v1.1.9
