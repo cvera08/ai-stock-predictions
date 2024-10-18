@@ -124,6 +124,9 @@ ___
 
 Stable Builds:
 
+* Aug 16, 2024 -- v3.0.2
+  * Feat OpenAI
+
 * Aug 15, 2024 -- v2.0.5
   * Fetch Report
 
