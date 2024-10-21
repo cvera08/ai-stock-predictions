@@ -124,6 +124,9 @@ ___
 
 Stable Builds:
 
+* Aug 19, 2024 -- v3.0.4
+  * Render Report
+
 * Aug 16, 2024 -- v3.0.2
   * Feat OpenAI
 
