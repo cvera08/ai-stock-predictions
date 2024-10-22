@@ -124,6 +124,9 @@ ___
 
 Stable Builds:
 
+* Aug 29, 2024 -- v3.0.5
+  * Vite Config
+
 * Aug 19, 2024 -- v3.0.4
   * Render Report
 
