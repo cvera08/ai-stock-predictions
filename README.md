@@ -124,6 +124,9 @@ ___
 
 Stable Builds:
 
+* Sep 03, 2024 -- v3.0.9
+  * Lock to use CI
+
 * Aug 29, 2024 -- v3.0.5
   * Vite Config
 
