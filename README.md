@@ -124,6 +124,9 @@ ___
 
 Stable Builds:
 
+* Sep 06, 2024 -- v4.0.0
+  * Requisites
+
 * Sep 03, 2024 -- v3.0.9
   * Lock to use CI
 
