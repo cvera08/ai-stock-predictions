@@ -124,6 +124,9 @@ ___
 
 Stable Builds:
 
+* Sep 25, 2024 -- v4.0.1
+  * Tests
+
 * Sep 06, 2024 -- v4.0.0
   * Requisites
 
