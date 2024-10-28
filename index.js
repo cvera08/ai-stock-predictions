@@ -83,7 +83,7 @@ async function fetchReport(data) {
     try {
         const openai = new OpenAI({
             dangerouslyAllowBrowser: true,
-            apiKey: `${process.env.OPENAI_API_KEY}`
+            apiKey: `${process.env.OPENAI_API_KEY}` //Use for example a BE/Node.js server or if testing locally replace by your actual OpenAI key
         })
         const response = await openai.chat.completions.create({
             model: 'gpt-3.5-turbo',
