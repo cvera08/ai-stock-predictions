@@ -4,16 +4,23 @@ This repository aims to demonstrate the use of Artificial Intelligence in the ar
 ___
 
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#table-of-contents)Table of contents
-1. [Requisites](#requisites)
-2. [To run this project](#to-run-this-project)
-3. [Getting Started](#getting-started)
-4. [Start the project](#start-the-project)
-5. [Online resources](#online-resources)
-6. [Composition](#composition-toolslibraries)
+1. [Demo](#demo)
+2. [Requisites](#requisites)
+3. [To run this project](#to-run-this-project)
+4. [Getting Started](#getting-started)
+5. [Start the project](#start-the-project)
+6. [Online resources](#online-resources)
+7. [Composition](#composition-toolslibraries)
    - [Tools/Libraries](#composition-toolslibraries)
-7. [Miscellaneous](#miscellaneous)
-8. [MIT licence](#mit-licence)
-9. [Change Log](#change-log)
+8. [Miscellaneous](#miscellaneous)
+9. [MIT licence](#mit-licence)
+10. [Change Log](#change-log)
+
+___
+
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#demo)Demo
+
+[Click here to watch the demo video!](https://github.com/user-attachments/assets/974dfe75-747b-406d-bd98-00aa922d296c)
 
 ___
 
